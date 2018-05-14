@@ -1,8 +1,7 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "ThomasRassloff/sdk-api",
+    "description": "REST-API connection class",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
+        "php": "^7.0"
     }
 }
