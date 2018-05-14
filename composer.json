@@ -2,7 +2,7 @@
     "name": "ThomasRassloff/sdk-api",
     "type": "library",
     "description": "REST-API connection class",
-    "keywords": ["log","logging"],
+    "keywords": ["sdk","api","rest","restfull"],
     "homepage": "https://github.com/ThomasRassloff/sdk-api",
     "license": "MIT",
     "authors": [
